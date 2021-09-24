@@ -1,0 +1,23 @@
+Student {
+	int Id, string Name, string Email, string Password, string Phone, string Bio, Teacher[] Supervisors, Module[] Courses, JSON Marks { string QuizName : int Result }
+}
+
+Teacher {
+	int Id, string Name, string Email, string Password, string Phone, string Bio, Student[] Pupils, Module[] Courses
+}
+
+Module {
+	int Id, string Subject, string Difficulty, Quiz[] Quizzes
+}
+
+Quiz {
+	int Id, string Name, string Subject, string Difficulty, int Length, Question[] Questions
+}
+
+Question {
+	int Id, string Label (Question), string Answer
+}
+
+Comment {
+	Teacher Sender, Student Receiver, Date Time
+}
