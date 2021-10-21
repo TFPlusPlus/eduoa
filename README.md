@@ -24,12 +24,13 @@ Made possible with:
 
 Installation Instructions:
 1. Have NodeJS installed onto your local machine.*
-2. Download the source code from our GitHub repository.
-3. Open the folder in Visual Studio Code.
-4. Open a new terminal (default hotkey: Ctrl+`).
-5. Enter the command "npm ci" to install all dependencies.
-6. Once the installation is finished, enter the command "npm start".
-7. The development server should start, and the page should be opened on your default browser.
+2. Download the source code as a ZIP file from our GitHub repository.
+3. Unzip the folder.
+4. Open the "eduoa-main" folder in Visual Studio Code.
+5. Open a new terminal (default hotkey: Ctrl+`).
+6. Enter the command "npm ci" to install all dependencies.
+7. Once the installation is finished, enter the command "npm start".
+8. The development server should start, and the page should be opened on your default browser.
 
 Usage Examples:
 For a thorough demonstration of how to use our application, please watch our presentation video.
