@@ -48,6 +48,7 @@ Further tutorials and material we have used are
 - "React JS Crash Course 2021" by Traversy Media*, and their GitHub repository containing the source code*
 - "Learn React in 30 Minutes" by Web Dev Simplified*, and multiple other videos from this channel, teaching about useful concepts with React and web development in general.
 - COMPSCI 335 (Functional Programming and Distributed Services) for knowledge on backend development, with creating databases, building servers, and developing API's.
+
 Finally, we would like to thank Lin and Jiamou for their guidance on the development of the project, and also a big thanks to Asma for the management of the project.
 
 Appendix (Links):
