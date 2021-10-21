@@ -53,7 +53,7 @@ Finally, we would like to thank Lin and Jiamou for their guidance on the develop
 Appendix (Links):
 - Trello: https://trello.com/b/1gtF3QlL/eduoa
 - Presentation video: https://drive.google.com/file/d/1Asumkk2QxcT04fUx5PGt1qXb28dx0d1-
-- NodeJS download: nodejs.org
-- ReactJS.org*: reactjs.org
+- NodeJS download: http://nodejs.org
+- ReactJS.org*: http://reactjs.org
 - "React JS Crash Course 2021" by Traversy Media*: https://youtu.be/w7ejDZ8SWv8
 - "Learn React in 30 Minutes" by Web Dev Simplified*: https://youtu.be/hQAHSlTtcmY
