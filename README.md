@@ -45,7 +45,7 @@ For future implementations, we plan to add features including, but not limited t
 Acknowledgments:
 We would like to acknowledge ReactJS.org* for the detailed, interactive tutorials, that made learning and familiarizing with ReactJS uncomplicated.
 Further tutorials and material we have used are
-- "React JS Crash Course 2021" by Traversy Media*, and their GitHub repository containing the source code (https://github.com/bradtraversy/react-crash-2021)
+- "React JS Crash Course 2021" by Traversy Media*, and their GitHub repository containing the source code*
 - "Learn React in 30 Minutes" by Web Dev Simplified*, and multiple other videos from this channel, teaching about useful concepts with React and web development in general.
 - COMPSCI 335 (Functional Programming and Distributed Services) for knowledge on backend development, with creating databases, building servers, and developing API's.
 Finally, we would like to thank Lin and Jiamou for their guidance on the development of the project, and also a big thanks to Asma for the management of the project.
@@ -54,6 +54,7 @@ Appendix (Links):
 - Trello: https://trello.com/b/1gtF3QlL/eduoa
 - Presentation video: https://drive.google.com/file/d/1Asumkk2QxcT04fUx5PGt1qXb28dx0d1-
 - NodeJS download: http://nodejs.org
-- ReactJS.org*: http://reactjs.org
-- "React JS Crash Course 2021" by Traversy Media*: https://youtu.be/w7ejDZ8SWv8
-- "Learn React in 30 Minutes" by Web Dev Simplified*: https://youtu.be/hQAHSlTtcmY
+- ReactJS.org: http://reactjs.org
+- "React JS Crash Course 2021" by Traversy Media: https://youtu.be/w7ejDZ8SWv8
+- GitHub repository provided by Traversy Media: https://github.com/bradtraversy/react-crash-2021
+- "Learn React in 30 Minutes" by Web Dev Simplified: https://youtu.be/hQAHSlTtcmY
